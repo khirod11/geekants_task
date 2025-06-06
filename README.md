@@ -83,5 +83,5 @@ This system supports:
 >**Note**: I've included the MongoURI in the backend for the preloaded data. The database already has some sample data inside it for testing. You can signup and login using your own email and password. 
 
 ## Here is the manager's credentials for testing:<br>
-email: *manager1@gmail.com*<br>
+email: *manager1@test.com*<br>
 password: *password123*<br>
